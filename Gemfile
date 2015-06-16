@@ -50,3 +50,5 @@ gem "twitter-bootstrap-rails"
 
 gem 'private_pub'
 gem 'thin'
+
+gem "font-awesome-rails"
