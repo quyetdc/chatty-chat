@@ -47,3 +47,6 @@ gem 'devise'
 
 gem "therubyracer"
 gem "twitter-bootstrap-rails"
+
+gem 'private_pub'
+gem 'thin'
